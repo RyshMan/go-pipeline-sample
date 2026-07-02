@@ -30,4 +30,4 @@ Bring Your Own Infrastructure:
 MIT License
 
 
-Trigger test 6
+Trigger test 7
